@@ -1,0 +1,24 @@
+body{
+  height: 100%;
+        margin: 0px;
+}
+h1{
+  text-align: center;
+}
+h4{
+  text-align: center;
+}
+#start{
+  text-align: center;
+}
+#end{
+  text-align: center;
+  background-color: red;
+}
+#area{
+  border: 1px solid grey;
+  width: 50%;
+  height: 50vh;
+  margin: 0 auto;
+  /* //cursor: url('http://www.placekitten.com/g/20/20') 20 20, auto; */
+}
